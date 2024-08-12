@@ -21,7 +21,7 @@ import com.skydroid.mapboundryapp.R
 
 
 class WebViewActivity : AppCompatActivity() {
-    private val URL = "https://dev.agrani.io/"
+    private val URL = "https://Your Url/"
     private var isAlreadyCreated = false
 
     var webView:WebView?=null
